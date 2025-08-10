@@ -1,0 +1,722 @@
+[
+  {
+    "id": "1",
+    "pregunta": "¿En qué año se jugó la primera Copa Mundial de la FIFA?",
+    "opciones": ["1926", "1930", "1934", "1938"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "2",
+    "pregunta": "¿Qué país ganó la Copa Mundial de la FIFA en 1930?",
+    "opciones": ["Argentina", "Brasil", "Uruguay", "Italia"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "3",
+    "pregunta": "¿Qué selección ganó la Copa Mundial de 2014?",
+    "opciones": ["Brasil", "Alemania", "Argentina", "España"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "4",
+    "pregunta": "¿En qué país se celebró la Copa del Mundo 2010?",
+    "opciones": ["Sudáfrica", "Brasil", "Italia", "Japón"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "5",
+    "pregunta": "¿Qué jugador es conocido como 'O Rei'?",
+    "opciones": ["Maradona", "Cruyff", "Pelé", "Messi"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "6",
+    "pregunta": "¿En qué año se fundó el club Real Madrid?",
+    "opciones": ["1898", "1902", "1910", "1923"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "7",
+    "pregunta": "¿Qué país organizará la Copa Mundial de la FIFA 2026?",
+    "opciones": ["Qatar", "Canadá, México y Estados Unidos", "Alemania", "Japón"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "8",
+    "pregunta": "¿Cuál es el país con más Copas del Mundo ganadas?",
+    "opciones": ["Italia", "Alemania", "Argentina", "Brasil"],
+    "respuestaCorrecta": 3,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "9",
+    "pregunta": "¿En qué país se celebró la Copa del Mundo de 1994?",
+    "opciones": ["Estados Unidos", "Italia", "Francia", "México"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "10",
+    "pregunta": "¿Quién ganó la Copa Mundial de la FIFA 2018?",
+    "opciones": ["Brasil", "Alemania", "Francia", "Argentina"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "11",
+    "pregunta": "¿Qué club ganó la primera edición de la Premier League en 1992-1993?",
+    "opciones": ["Blackburn Rovers", "Manchester United", "Arsenal", "Liverpool"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "12",
+    "pregunta": "¿En qué país se celebró la Copa del Mundo de 2002?",
+    "opciones": ["Alemania", "Japón y Corea del Sur", "Francia", "Sudáfrica"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "13",
+    "pregunta": "¿Qué equipo ganó la Copa Mundial Femenina de la FIFA 2019?",
+    "opciones": ["Estados Unidos", "Holanda", "Suecia", "Inglaterra"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "14",
+    "pregunta": "¿En qué club es 'Sir Alex Ferguson' una leyenda como entrenador?",
+    "opciones": ["Manchester City", "Liverpool", "Chelsea", "Manchester United"],
+    "respuestaCorrecta": 3,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "15",
+    "pregunta": "¿Cuál es el equipo más antiguo del mundo?",
+    "opciones": ["Sheffield FC", "Notts County", "Stoke City", "Wrexham A.F.C."],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "16",
+    "pregunta": "¿Qué selección es conocida como 'La Roja'?",
+    "opciones": ["Brasil", "Alemania", "España", "Portugal"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "17",
+    "pregunta": "¿Cuál es el país que ganó la Copa Mundial de 1950, conocida por el 'Maracanazo'?",
+    "opciones": ["Brasil", "Uruguay", "Argentina", "Italia"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "18",
+    "pregunta": "¿Qué país ganó la Eurocopa 2020 (celebrada en 2021)?",
+    "opciones": ["Inglaterra", "Francia", "Italia", "España"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "19",
+    "pregunta": "¿Qué jugador es el máximo goleador en la historia de la selección de Alemania?",
+    "opciones": ["Gerd Müller", "Miroslav Klose", "Jürgen Klinsmann", "Lothar Matthäus"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "20",
+    "pregunta": "¿Qué país fue subcampeón del mundo en 1986?",
+    "opciones": ["Alemania Federal", "Italia", "Brasil", "Inglaterra"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "21",
+    "pregunta": "¿En qué año se introdujo la tanda de penaltis en la Copa del Mundo?",
+    "opciones": ["1966", "1970", "1978", "1982"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "22",
+    "pregunta": "¿Qué club de fútbol es conocido como 'Los Merengues'?",
+    "opciones": ["FC Barcelona", "Atlético de Madrid", "Real Madrid", "Valencia CF"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "23",
+    "pregunta": "¿Quién fue el portero de la selección de España que ganó el Mundial de 2010?",
+    "opciones": ["David de Gea", "Pepe Reina", "Iker Casillas", "Víctor Valdés"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "24",
+    "pregunta": "¿Cuál es el club con más títulos de la UEFA Champions League?",
+    "opciones": ["AC Milan", "Bayern Múnich", "Real Madrid", "Liverpool"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "25",
+    "pregunta": "¿Qué equipo es el rival histórico del Manchester United en el 'Derby de Manchester'?",
+    "opciones": ["Liverpool FC", "Arsenal FC", "Manchester City", "Chelsea FC"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "26",
+    "pregunta": "¿En qué ciudad se encuentra el estadio 'Camp Nou'?",
+    "opciones": ["Madrid", "Barcelona", "Valencia", "Sevilla"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "27",
+    "pregunta": "¿Qué jugador es el máximo goleador histórico de la Liga Española?",
+    "opciones": ["Cristiano Ronaldo", "Lionel Messi", "Telmo Zarra", "Hugo Sánchez"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "28",
+    "pregunta": "¿Qué país ganó la Copa América 2021?",
+    "opciones": ["Brasil", "Argentina", "Uruguay", "Chile"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "29",
+    "pregunta": "¿Quién fue el portero de la selección de Alemania que ganó el Mundial de 1990?",
+    "opciones": ["Bodo Illgner", "Oliver Kahn", "Sepp Maier", "Harald Schumacher"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "30",
+    "pregunta": "¿Cuál es el equipo más antiguo de la Premier League?",
+    "opciones": ["Everton", "Arsenal", "Manchester United", "Liverpool"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Facil"
+  },
+  {
+    "id": "31",
+    "pregunta": "¿Qué selección fue subcampeona de la Copa Mundial de 2014?",
+    "opciones": ["Holanda", "Brasil", "Argentina", "Francia"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "32",
+    "pregunta": "¿En qué año se fundó el FC Barcelona?",
+    "opciones": ["1899", "1902", "1910", "1923"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "33",
+    "pregunta": "¿En qué estadio se jugó la final de la Copa del Mundo de 2018?",
+    "opciones": ["Estadio Luzhnikí", "Estadio Krestovski", "Estadio de Wembley", "Stade de France"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "34",
+    "pregunta": "¿Qué equipo es conocido como 'Die Borussen'?",
+    "opciones": ["Bayern Munich", "Borussia Dortmund", "Schalke 04", "Bayer Leverkusen"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "35",
+    "pregunta": "¿Cuál es el único país sudamericano que nunca ha participado en una Copa del Mundo?",
+    "opciones": ["Venezuela", "Ecuador", "Bolivia", "Paraguay"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "36",
+    "pregunta": "¿Quién fue el máximo goleador de la Copa del Mundo de 1970?",
+    "opciones": ["Pelé", "Gerd Müller", "Jairzinho", "Teófilo Cubillas"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "37",
+    "pregunta": "¿En qué año se celebró el primer Mundial de Clubes de la FIFA?",
+    "opciones": ["1999", "2000", "2005", "2010"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "38",
+    "pregunta": "¿Qué país ganó la Copa Confederaciones de 2017?",
+    "opciones": ["Chile", "Alemania", "Portugal", "México"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "39",
+    "pregunta": "¿Cuál es el récord de goles en una sola edición de la Copa Mundial?",
+    "opciones": ["12 (Fontaine)", "13 (Fontaine)", "14 (Ronaldo)", "15 (Miroslav Klose)"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "40",
+    "pregunta": "¿Quién fue el primer entrenador en ganar la Champions League con tres clubes diferentes?",
+    "opciones": ["Carlo Ancelotti", "José Mourinho", "Pep Guardiola", "Jupp Heynckes"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "41",
+    "pregunta": "¿Qué país fue el campeón de la Copa América de 2019?",
+    "opciones": ["Argentina", "Perú", "Chile", "Brasil"],
+    "respuestaCorrecta": 3,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "42",
+    "pregunta": "¿Cuál es el club más antiguo del fútbol profesional español?",
+    "opciones": ["Sevilla FC", "Real Club Recreativo de Huelva", "Real Madrid", "Athletic Club"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "43",
+    "pregunta": "¿Qué equipo es el rival histórico del Tottenham Hotspur en el 'North London Derby'?",
+    "opciones": ["West Ham United", "Chelsea", "Arsenal", "Fulham"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "44",
+    "pregunta": "¿Qué jugador ha marcado más goles en la historia del 'Clásico' entre Real Madrid y Barcelona?",
+    "opciones": ["Cristiano Ronaldo", "Lionel Messi", "Alfredo Di Stéfano", "Raúl González"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "45",
+    "pregunta": "¿Qué equipo ganó la Copa de Europa de 1967, siendo el primer equipo británico en hacerlo?",
+    "opciones": ["Manchester United", "Liverpool", "Celtic FC", "Leeds United"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "46",
+    "pregunta": "¿Quién fue el jugador más joven en marcar en una Copa Mundial?",
+    "opciones": ["Pelé", "Michael Owen", "Lionel Messi", "Dmitri Sychev"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "47",
+    "pregunta": "¿Qué club de fútbol tiene el récord mundial de asistencias a un partido?",
+    "opciones": ["FC Barcelona", "Real Madrid", "Celtic FC", "Club América"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "48",
+    "pregunta": "¿Qué jugador holandés es considerado el inventor del 'fútbol total'?",
+    "opciones": ["Johan Cruyff", "Rinus Michels", "Marco van Basten", "Ruud Gullit"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "49",
+    "pregunta": "¿Qué país ganó la primera Copa Asiática en 1956?",
+    "opciones": ["Corea del Sur", "Hong Kong", "Israel", "Irán"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "50",
+    "pregunta": "¿Quién fue el árbitro del famoso partido entre Inglaterra y Argentina en el Mundial de 1986?",
+    "opciones": ["Ali Bennaceur", "Romualdo Arppi Filho", "Michel Vautrot", "Joël Quiniou"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "51",
+    "pregunta": "¿Cuál es el jugador que ha jugado más partidos en la historia del Mundial?",
+    "opciones": ["Lothar Matthäus", "Paolo Maldini", "Gianluigi Buffon", "Miroslav Klose"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "52",
+    "pregunta": "¿Quién es el máximo goleador histórico de la selección de Brasil?",
+    "opciones": ["Romário", "Ronaldo Nazário", "Pelé", "Neymar"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "53",
+    "pregunta": "¿Qué país fue el campeón de la Eurocopa de 2016?",
+    "opciones": ["Francia", "Portugal", "Alemania", "Gales"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "54",
+    "pregunta": "¿Cuál es el único país que ha ganado la Copa del Mundo en su propio territorio en tres ocasiones?",
+    "opciones": ["Brasil", "Alemania", "Italia", "Uruguay"],
+    "respuestaCorrecta": 3,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "55",
+    "pregunta": "¿Qué entrenador llevó al Barcelona a ganar su primera Copa de Europa en 1992?",
+    "opciones": ["Terry Venables", "Johan Cruyff", "Louis van Gaal", "Bobby Robson"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "56",
+    "pregunta": "¿Cuál es el jugador con más asistencias en la historia de la Premier League?",
+    "opciones": ["Ryan Giggs", "Cesc Fàbregas", "Frank Lampard", "Wayne Rooney"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "57",
+    "pregunta": "¿Quién es el único portero en ganar el Balón de Oro?",
+    "opciones": ["Lev Yashin", "Dino Zoff", "Gianluigi Buffon", "Manuel Neuer"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "58",
+    "pregunta": "¿Qué país fue el subcampeón de la Copa Mundial de 1974?",
+    "opciones": ["Alemania Federal", "Holanda", "Polonia", "Brasil"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "59",
+    "pregunta": "¿Cuál es el apodo del equipo nacional de fútbol de Holanda?",
+    "opciones": ["Los Tulipanes", "La Naranja Mecánica", "Los Leones", "Los Oranjes"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "60",
+    "pregunta": "¿En qué año el Real Madrid ganó su primera Copa de Europa?",
+    "opciones": ["1955", "1956", "1958", "1960"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Medio"
+  },
+  {
+    "id": "61",
+    "pregunta": "¿Qué país fue el subcampeón de la Copa Mundial de la FIFA 1970?",
+    "opciones": ["Italia", "Alemania Federal", "Inglaterra", "Perú"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "62",
+    "pregunta": "¿Quién es el máximo goleador histórico de la Ligue 1 francesa?",
+    "opciones": ["Delio Onnis", "Kylian Mbappé", "Jean-Pierre Papin", "Carlos Bianchi"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "63",
+    "pregunta": "¿Qué equipo ganó el 'triplete' (Liga, Copa y Champions) en la temporada 1998-1999?",
+    "opciones": ["Real Madrid", "Bayern Munich", "FC Barcelona", "Manchester United"],
+    "respuestaCorrecta": 3,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "64",
+    "pregunta": "¿Qué jugador anotó el 'gol de oro' en la final de la Eurocopa de 2000?",
+    "opciones": ["Zinedine Zidane", "David Trezeguet", "Thierry Henry", "Silvain Wiltord"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "65",
+    "pregunta": "¿Qué club de la Premier League tiene el récord de la mayor cantidad de puntos en una temporada?",
+    "opciones": ["Manchester United", "Liverpool", "Manchester City", "Chelsea"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "66",
+    "pregunta": "¿Cuál es el máximo goleador histórico de la Serie A italiana?",
+    "opciones": ["Silvio Piola", "Giuseppe Meazza", "Francesco Totti", "Gunnar Nordahl"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "67",
+    "pregunta": "¿En qué año se jugó el primer partido de fútbol televisado?",
+    "opciones": ["1937", "1940", "1950", "1966"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "68",
+    "pregunta": "¿Quién es el único jugador en ganar el Balón de Oro y el 'Botín de Oro' en el mismo año?",
+    "opciones": ["Lionel Messi", "Cristiano Ronaldo", "Eusébio", "Gerd Müller"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "69",
+    "pregunta": "¿Qué país ganó la medalla de oro en fútbol en los Juegos Olímpicos de 1924?",
+    "opciones": ["Bélgica", "Uruguay", "Suiza", "España"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "70",
+    "pregunta": "¿Cuál es el nombre del trofeo del campeonato de liga alemán (Bundesliga)?",
+    "opciones": ["Tazón de la Liga", "Escudo de campeón", "Meisterschale", "Bundesligapokal"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "71",
+    "pregunta": "¿Qué jugador anotó el 'gol del siglo' en la Copa Mundial de 1986?",
+    "opciones": ["Pelé", "Diego Maradona", "Marco van Basten", "Zinedine Zidane"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "72",
+    "pregunta": "¿Quién fue el portero que recibió el 'gol del siglo' de Maradona?",
+    "opciones": ["Peter Shilton", "Nery Pumpido", "José Luis Chilavert", "Jan Jongbloed"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "73",
+    "pregunta": "¿Cuál es el jugador más joven en marcar en una final de la Copa del Mundo?",
+    "opciones": ["Pelé", "Kylian Mbappé", "Ronaldo Nazário", "Jimmy Greaves"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "74",
+    "pregunta": "¿Qué equipo ha ganado más veces la FA Cup?",
+    "opciones": ["Manchester United", "Chelsea", "Arsenal", "Tottenham Hotspur"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "75",
+    "pregunta": "¿Quién es el máximo goleador histórico del Liverpool FC?",
+    "opciones": ["Steven Gerrard", "Robbie Fowler", "Kenny Dalglish", "Ian Rush"],
+    "respuestaCorrecta": 3,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "76",
+    "pregunta": "¿Cuál es el récord de más goles en una temporada de la Bundesliga?",
+    "opciones": ["Gerd Müller", "Robert Lewandowski", "Uwe Seeler", "Klaus Fischer"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "77",
+    "pregunta": "¿Cuál es el único club que ha ganado la Eredivisie holandesa en todas sus ediciones hasta 2021?",
+    "opciones": ["Feyenoord", "Ajax", "PSV Eindhoven", "Ninguno"],
+    "respuestaCorrecta": 3,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "78",
+    "pregunta": "¿En qué año se introdujo el uso de tarjetas amarillas y rojas en el fútbol?",
+    "opciones": ["1966", "1970", "1974", "1982"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "79",
+    "pregunta": "¿Quién es el máximo goleador histórico de la selección de Holanda?",
+    "opciones": ["Robin van Persie", "Klaas-Jan Huntelaar", "Dennis Bergkamp", "Ruud van Nistelrooy"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "80",
+    "pregunta": "¿Qué selección fue la subcampeona de la Copa Mundial de la FIFA de 1994?",
+    "opciones": ["Suecia", "Italia", "Brasil", "Alemania"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "81",
+    "pregunta": "¿Cuál es el club con más títulos de la Copa de Europa Femenina de la UEFA?",
+    "opciones": ["Olympique de Lyon", "1. FFC Frankfurt", "Wolfsburg", "FC Barcelona"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "82",
+    "pregunta": "¿En qué estadio se jugó la final de la UEFA Champions League de 2012?",
+    "opciones": ["Estadio Olímpico de Kiev", "Wembley", "Allianz Arena", "Estadio da Luz"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "83",
+    "pregunta": "¿Qué club de fútbol de la Bundesliga es apodado 'Die Fohlen' (Los Potros)?",
+    "opciones": ["Borussia Mönchengladbach", "Borussia Dortmund", "Eintracht Frankfurt", "VfB Stuttgart"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "84",
+    "pregunta": "¿Qué selección nacional de fútbol es conocida como 'La Naranja Mecánica'?",
+    "opciones": ["Brasil", "Alemania", "España", "Holanda"],
+    "respuestaCorrecta": 3,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "85",
+    "pregunta": "¿En qué año se fundó el Club Atlético Boca Juniors?",
+    "opciones": ["1905", "1901", "1903", "1910"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "86",
+    "pregunta": "¿Quién fue el primer jugador en anotar un hat-trick en una final de la Copa del Mundo?",
+    "opciones": ["Pelé", "Geoff Hurst", "Gerd Müller", "Ronaldo Nazário"],
+    "respuestaCorrecta": 1,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "87",
+    "pregunta": "¿Qué equipo ganó la primera Copa Libertadores en 1960?",
+    "opciones": ["Peñarol", "River Plate", "Boca Juniors", "Palmeiras"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "88",
+    "pregunta": "¿Quién es el máximo goleador histórico del FC Barcelona?",
+    "opciones": ["César Rodríguez", "Ladislao Kubala", "Lionel Messi", "Luis Suárez"],
+    "respuestaCorrecta": 2,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "89",
+    "pregunta": "¿Cuál es el club con más títulos de la Copa de Europa Femenina de la UEFA?",
+    "opciones": ["Olympique de Lyon", "1. FFC Frankfurt", "Wolfsburg", "FC Barcelona"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": "90",
+    "pregunta": "¿Quién fue el primer ganador del premio Puskás de la FIFA al mejor gol del año?",
+    "opciones": ["Cristiano Ronaldo", "Zlatan Ibrahimović", "Hamit Altıntop", "Lionel Messi"],
+    "respuestaCorrecta": 0,
+    "categoria": "Historia",
+    "dificultad": "Dificil"
+  }
+]
