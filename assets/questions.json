@@ -718,5 +718,1448 @@
     "respuestaCorrecta": 0,
     "categoria": "Historia",
     "dificultad": "Dificil"
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Qué jugador ha ganado más Balones de Oro en la historia?",
+    "opciones": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Johan Cruyff"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 92,
+    "pregunta": "¿En qué club se hizo famoso Pelé?",
+    "opciones": ["Real Madrid", "Santos FC", "FC Barcelona", "AC Milan"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Qué jugador es conocido como 'O Fenômeno'?",
+    "opciones": ["Ronaldo Nazário", "Ronaldinho", "Kaká", "Neymar"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Quién es el máximo goleador histórico del FC Barcelona?",
+    "opciones": ["César Rodríguez", "Luis Suárez", "Lionel Messi", "Ladislao Kubala"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Qué jugador es el máximo goleador de la historia de la Champions League?",
+    "opciones": ["Lionel Messi", "Robert Lewandowski", "Cristiano Ronaldo", "Raúl González"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Quién fue el primer jugador en ganar cinco Balones de Oro?",
+    "opciones": ["Lionel Messi", "Cristiano Ronaldo", "Alfredo Di Stéfano", "Marco van Basten"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 97,
+    "pregunta": "¿En qué club jugó David Beckham la mayor parte de su carrera?",
+    "opciones": ["Real Madrid", "Manchester United", "LA Galaxy", "Paris Saint-Germain"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Qué futbolista es conocido por la 'mano de Dios'?",
+    "opciones": ["Diego Maradona", "Lionel Messi", "Pelé", "Zinedine Zidane"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Qué jugador ha ganado el Balón de Oro en tres décadas diferentes?",
+    "opciones": ["Cristiano Ronaldo", "Lionel Messi", "Luka Modrić", "Kaká"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 100,
+    "pregunta": "¿En qué selección nacional jugó Zinedine Zidane?",
+    "opciones": ["Italia", "Argelia", "Francia", "España"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 101,
+    "pregunta": "¿Quién es el máximo goleador histórico de la Premier League?",
+    "opciones": ["Wayne Rooney", "Alan Shearer", "Thierry Henry", "Sergio Agüero"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Qué jugador es conocido como 'El Bicho'?",
+    "opciones": ["Luis Suárez", "Karim Benzema", "Cristiano Ronaldo", "Zlatan Ibrahimović"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 103,
+    "pregunta": "¿En qué club se retiró la carrera de Pelé?",
+    "opciones": ["New York Cosmos", "Santos FC", "Flamengo", "Real Madrid"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 104,
+    "pregunta": "¿Qué jugador fue el primer fichaje 'galáctico' de Florentino Pérez en el Real Madrid?",
+    "opciones": ["Zinedine Zidane", "David Beckham", "Luis Figo", "Ronaldo Nazário"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Qué jugador es el máximo goleador de la historia de la selección de Brasil?",
+    "opciones": ["Ronaldo", "Romário", "Pelé", "Neymar"],
+    "respuestaCorrecta": 3,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Qué jugador es el máximo goleador histórico del Real Madrid?",
+    "opciones": ["Alfredo Di Stéfano", "Raúl González", "Cristiano Ronaldo", "Karim Benzema"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 107,
+    "pregunta": "¿En qué equipo se consagró Ronaldinho Gaúcho?",
+    "opciones": ["Paris Saint-Germain", "AC Milan", "FC Barcelona", "Grêmio"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Qué jugador es el máximo goleador en la historia de la Copa del Mundo?",
+    "opciones": ["Miroslav Klose", "Ronaldo Nazário", "Gerd Müller", "Just Fontaine"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Quién es el futbolista más joven en ganar el Balón de Oro?",
+    "opciones": ["Lionel Messi", "Cristiano Ronaldo", "Michael Owen", "Ronaldo Nazário"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 110,
+    "pregunta": "¿Qué delantero italiano es conocido por el apodo 'Il Divin Codino'?",
+    "opciones": ["Paolo Rossi", "Roberto Baggio", "Alessandro Del Piero", "Francesco Totti"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 111,
+    "pregunta": "¿En qué club debutó profesionalmente Kylian Mbappé?",
+    "opciones": ["AS Monaco", "Paris Saint-Germain", "Olympique de Lyon", "Lille OSC"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Quién fue el portero de la selección española que ganó el Mundial de 2010?",
+    "opciones": ["David De Gea", "Pepe Reina", "Iker Casillas", "Víctor Valdés"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 113,
+    "pregunta": "¿Qué jugador ha ganado el Balón de Oro en dos décadas diferentes?",
+    "opciones": ["Lionel Messi", "Cristiano Ronaldo", "Zinedine Zidane", "Ronaldo Nazário"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 114,
+    "pregunta": "¿Qué jugador es conocido como 'La Pulga'?",
+    "opciones": ["Alexis Sánchez", "Kun Agüero", "Lionel Messi", "Paulo Dybala"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 115,
+    "pregunta": "¿En qué club jugó Xavi Hernández la mayor parte de su carrera?",
+    "opciones": ["FC Barcelona", "Real Madrid", "Al-Sadd SC", "Bayern de Múnich"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 116,
+    "pregunta": "¿Qué jugador belga es conocido por su habilidad en el dribling y su paso por el Chelsea y el Real Madrid?",
+    "opciones": ["Kevin De Bruyne", "Romelu Lukaku", "Eden Hazard", "Thibaut Courtois"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Quién es el máximo goleador en la historia de la selección de Argentina?",
+    "opciones": ["Gabriel Batistuta", "Diego Maradona", "Lionel Messi", "Mario Kempes"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 118,
+    "pregunta": "¿En qué club se hizo leyenda Francesco Totti?",
+    "opciones": ["Juventus FC", "Inter de Milán", "AS Roma", "AC Milan"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 119,
+    "pregunta": "¿Qué jugador alemán es el máximo goleador de la historia de la Copa del Mundo?",
+    "opciones": ["Miroslav Klose", "Gerd Müller", "Thomas Müller", "Jürgen Klinsmann"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Qué jugador fue el primer africano en ganar el Balón de Oro?",
+    "opciones": ["Didier Drogba", "Samuel Eto'o", "George Weah", "Roger Milla"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Facil"
+  },
+  {
+    "id": 121,
+    "pregunta": "¿Qué jugador es el máximo goleador histórico de la selección de Alemania?",
+    "opciones": ["Gerd Müller", "Miroslav Klose", "Lukas Podolski", "Thomas Müller"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 122,
+    "pregunta": "¿Qué futbolista ha ganado la Bota de Oro en dos ligas diferentes?",
+    "opciones": ["Cristiano Ronaldo", "Lionel Messi", "Luis Suárez", "Robert Lewandowski"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 123,
+    "pregunta": "¿Quién es el máximo goleador de la historia de la Ligue 1 francesa?",
+    "opciones": ["Zlatan Ibrahimović", "Edinson Cavani", "Kylian Mbappé", "Delio Onnis"],
+    "respuestaCorrecta": 3,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 124,
+    "pregunta": "¿En qué club debutó profesionalmente Andrea Pirlo?",
+    "opciones": ["Inter de Milán", "AC Milan", "Brescia Calcio", "Juventus FC"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 125,
+    "pregunta": "¿Qué portero ha sido el único en ganar el Balón de Oro?",
+    "opciones": ["Iker Casillas", "Manuel Neuer", "Lev Yashin", "Gianluigi Buffon"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 126,
+    "pregunta": "¿Qué jugador francés es conocido como 'La Pantera Negra'?",
+    "opciones": ["Jean-Pierre Papin", "Didier Six", "Alain Giresse", "Just Fontaine"],
+    "respuestaCorrecta": 3,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 127,
+    "pregunta": "¿En qué club se hizo leyenda Alfredo Di Stéfano antes de ir al Real Madrid?",
+    "opciones": ["River Plate", "Boca Juniors", "Millonarios FC", "Huracán"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 128,
+    "pregunta": "¿Qué jugador holandés es considerado el inventor del 'fútbol total'?",
+    "opciones": ["Johan Cruyff", "Marco van Basten", "Ruud Gullit", "Frank Rijkaard"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 129,
+    "pregunta": "¿Quién es el máximo goleador de la historia de la Eredivisie holandesa?",
+    "opciones": ["Johan Cruyff", "Willy van der Kuijlen", "Marco van Basten", "Ruud Geels"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 130,
+    "pregunta": "¿Qué futbolista ganó el Balón de Oro y el Balón de Plata en un mismo año?",
+    "opciones": ["Cristiano Ronaldo", "Lionel Messi", "Luka Modrić", "Michael Owen"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 131,
+    "pregunta": "¿Qué jugador de la selección de España ha disputado más partidos?",
+    "opciones": ["Sergio Ramos", "Iker Casillas", "Xavi Hernández", "Andrés Iniesta"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 132,
+    "pregunta": "¿Quién fue el primer jugador en marcar un hat-trick en una final de la Champions League?",
+    "opciones": ["Ferenc Puskás", "Alfredo Di Stéfano", "Cristiano Ronaldo", "Gerd Müller"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 133,
+    "pregunta": "¿Qué jugador brasileño es conocido como 'El Rey del Drible'?",
+    "opciones": ["Pelé", "Ronaldinho", "Garrincha", "Neymar"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 134,
+    "pregunta": "¿Qué jugador ha ganado más títulos en la historia del fútbol?",
+    "opciones": ["Dani Alves", "Lionel Messi", "Andrés Iniesta", "Ryan Giggs"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 135,
+    "pregunta": "¿Quién es el máximo goleador de la historia del Borussia Dortmund?",
+    "opciones": ["Robert Lewandowski", "Marco Reus", "Erling Haaland", "Lars Ricken"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 136,
+    "pregunta": "¿Qué jugador es conocido por la 'paradinha' en los penaltis?",
+    "opciones": ["Neymar", "Cristiano Ronaldo", "Ronaldinho", "Didí"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 137,
+    "pregunta": "¿En qué club europeo jugó David Beckham por primera vez fuera del Manchester United?",
+    "opciones": ["Real Madrid", "Paris Saint-Germain", "AC Milan", "LA Galaxy"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 138,
+    "pregunta": "¿Qué jugador inglés fue conocido como 'El Mago' por su habilidad en el campo?",
+    "opciones": ["Paul Scholes", "Steven Gerrard", "Bobby Charlton", "Stanley Matthews"],
+    "respuestaCorrecta": 3,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 139,
+    "pregunta": "¿Quién fue el primer jugador en marcar en 11 partidos consecutivos de la Premier League?",
+    "opciones": ["Alan Shearer", "Thierry Henry", "Jamie Vardy", "Mohamed Salah"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 140,
+    "pregunta": "¿Qué jugador ha ganado más Copas de Europa (Champions League) en la historia?",
+    "opciones": ["Cristiano Ronaldo", "Francisco Gento", "Paolo Maldini", "Lionel Messi"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 141,
+    "pregunta": "¿Qué jugador alemán ha marcado más goles en la Bundesliga?",
+    "opciones": ["Gerd Müller", "Miroslav Klose", "Robert Lewandowski", "Klaus Fischer"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 142,
+    "pregunta": "¿En qué club jugó Thierry Henry la mayor parte de su carrera?",
+    "opciones": ["FC Barcelona", "AS Monaco", "Arsenal FC", "Juventus FC"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 143,
+    "pregunta": "¿Quién fue el primer jugador en anotar un gol de penalti en una final de la Copa del Mundo?",
+    "opciones": ["Pelé", "Marco Materazzi", "Andreas Brehme", "Zinedine Zidane"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 144,
+    "pregunta": "¿Qué jugador es el máximo goleador histórico de la Serie A italiana?",
+    "opciones": ["Silvio Piola", "Francesco Totti", "Giuseppe Meazza", "Alessandro Del Piero"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 145,
+    "pregunta": "¿Quién fue el portero de la selección de Italia que ganó el Mundial de 1982?",
+    "opciones": ["Dino Zoff", "Gianluigi Buffon", "Walter Zenga", "Antonio Cabrini"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 146,
+    "pregunta": "¿Qué jugador sueco es conocido por el apodo 'Ibra'?",
+    "opciones": ["Henrik Larsson", "Fredrik Ljungberg", "Zlatan Ibrahimović", "Sebastian Larsson"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 147,
+    "pregunta": "¿En qué club se hizo leyenda Johan Cruyff?",
+    "opciones": ["FC Barcelona", "AFC Ajax", "Feyenoord", "Washington Diplomats"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 148,
+    "pregunta": "¿Qué jugador es el máximo goleador de la historia de la selección de España?",
+    "opciones": ["Raúl González", "David Villa", "Fernando Torres", "Sergio Ramos"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 149,
+    "pregunta": "¿Quién fue el primer jugador en anotar un gol con el pie izquierdo en una final de la Copa del Mundo?",
+    "opciones": ["Ferenc Puskás", "Pelé", "Mario Kempes", "Zinedine Zidane"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 150,
+    "pregunta": "¿Qué jugador brasileño es conocido como 'El Emperador'?",
+    "opciones": ["Kaká", "Adriano Leite", "Ronaldo Nazário", "Robinho"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 151,
+    "pregunta": "¿Qué jugador es el único que ha ganado el Balón de Oro y el Premio Puskás en el mismo año?",
+    "opciones": ["Lionel Messi", "Cristiano Ronaldo", "Luka Modrić", "Mohamed Salah"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 152,
+    "pregunta": "¿Quién fue el primer jugador en marcar un gol olímpico en un Mundial?",
+    "opciones": ["Arsenio Erico", "José Leandro Andrade", "Marcos Caldeira", "Severino Varela"],
+    "respuestaCorrecta": 3,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 153,
+    "pregunta": "¿Qué jugador brasileño fue conocido por el apodo 'Diamante Negro'?",
+    "opciones": ["Leônidas da Silva", "Pelé", "Arthur Friedenreich", "Garrincha"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 154,
+    "pregunta": "¿En qué club debutó profesionalmente Alfredo Di Stéfano?",
+    "opciones": ["River Plate", "Huracán", "Boca Juniors", "Millonarios FC"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 155,
+    "pregunta": "¿Quién fue el primer jugador en marcar un hat-trick en una final de la Copa del Mundo?",
+    "opciones": ["Geoff Hurst", "Pelé", "Zinedine Zidane", "Just Fontaine"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 156,
+    "pregunta": "¿Qué jugador es el máximo goleador histórico del Liverpool FC?",
+    "opciones": ["Steven Gerrard", "Kenny Dalglish", "Ian Rush", "Roger Hunt"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 157,
+    "pregunta": "¿Quién es el máximo goleador de la historia de la FA Cup?",
+    "opciones": ["Harry Kane", "Ian Rush", "Didier Drogba", "Alan Shearer"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 158,
+    "pregunta": "¿Qué jugador inglés fue el primer fichaje millonario del Manchester United?",
+    "opciones": ["Bryan Robson", "Roy Keane", "Andy Cole", "Eric Cantona"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 159,
+    "pregunta": "¿Quién fue el primer jugador en ganar la Champions League con tres clubes diferentes?",
+    "opciones": ["Clarence Seedorf", "Cristiano Ronaldo", "Samuel Eto'o", "Dani Alves"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 160,
+    "pregunta": "¿Qué jugador es el máximo goleador de la historia de la selección de Camerún?",
+    "opciones": ["Roger Milla", "Samuel Eto'o", "Patrick M'Boma", "François Omam-Biyik"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 161,
+    "pregunta": "¿Quién fue el primer jugador africano en marcar en una final de la Copa del Mundo?",
+    "opciones": ["Rabah Madjer", "Roger Milla", "George Weah", "Samuel Eto'o"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 162,
+    "pregunta": "¿Qué jugador es el máximo goleador de la historia de la Major League Soccer?",
+    "opciones": ["Landon Donovan", "Chris Wondolowski", "Robbie Keane", "David Villa"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 163,
+    "pregunta": "¿En qué club debutó profesionalmente Zlatan Ibrahimović?",
+    "opciones": ["AFC Ajax", "Malmö FF", "Juventus FC", "Inter de Milán"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 164,
+    "pregunta": "¿Quién fue el primer jugador en marcar en una final de la Eurocopa con dos selecciones diferentes?",
+    "opciones": ["Fernando Torres", "Cristiano Ronaldo", "Olivier Giroud", "Zlatan Ibrahimović"],
+    "respuestaCorrecta": 3,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 165,
+    "pregunta": "¿Qué jugador es el máximo goleador de la historia del Inter de Milán?",
+    "opciones": ["Giuseppe Meazza", "Ronaldo Nazário", "Christian Vieri", "Alessandro Altobelli"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 166,
+    "pregunta": "¿Quién fue el primer jugador en marcar en cinco Copas del Mundo diferentes?",
+    "opciones": ["Pelé", "Miroslav Klose", "Cristiano Ronaldo", "Lionel Messi"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 167,
+    "pregunta": "¿Qué jugador holandés es el máximo goleador de la historia del AC Milan?",
+    "opciones": ["Marco van Basten", "Ruud Gullit", "Frank Rijkaard", "Gunnar Nordahl"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 168,
+    "pregunta": "¿Quién es el máximo goleador de la historia del Manchester City?",
+    "opciones": ["Sergio Agüero", "Gabriel Jesus", "Raheem Sterling", "Kevin De Bruyne"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 169,
+    "pregunta": "¿En qué club debutó profesionalmente Diego Maradona?",
+    "opciones": ["Boca Juniors", "Argentinos Juniors", "FC Barcelona", "SSC Napoli"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 170,
+    "pregunta": "¿Qué jugador es el máximo goleador de la historia de la Copa América?",
+    "opciones": ["Lionel Messi", "Tucho Méndez", "Zizinho", "Neymar"],
+    "respuestaCorrecta": 2,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 171,
+    "pregunta": "¿Quién fue el primer jugador en marcar un gol en una final de la Copa del Mundo con la camiseta de Alemania Occidental?",
+    "opciones": ["Gerd Müller", "Helmut Rahn", "Franz Beckenbauer", "Karl-Heinz Rummenigge"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 172,
+    "pregunta": "¿Qué jugador uruguayo es el máximo goleador de la historia de la Copa América?",
+    "opciones": ["Luis Suárez", "Edinson Cavani", "Ángel Romano", "Héctor Scarone"],
+    "respuestaCorrecta": 3,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 173,
+    "pregunta": "¿En qué club debutó profesionalmente Arjen Robben?",
+    "opciones": ["FC Groningen", "PSV Eindhoven", "Real Madrid", "Chelsea FC"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 174,
+    "pregunta": "¿Quién fue el primer jugador en anotar un hat-trick en un Mundial con la camiseta de la selección de España?",
+    "opciones": ["Emilio Butragueño", "David Villa", "Fernando Morientes", "Telmo Zarra"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 175,
+    "pregunta": "¿Qué jugador francés es el máximo goleador de la historia de la Ligue 1 con el PSG?",
+    "opciones": ["Kylian Mbappé", "Edinson Cavani", "Zlatan Ibrahimović", "Neymar"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 176,
+    "pregunta": "¿Quién fue el primer jugador en marcar un gol con la camiseta de la selección de Inglaterra en un Mundial?",
+    "opciones": ["Bobby Charlton", "Geoff Hurst", "Bryan Robson", "Stan Mortensen"],
+    "respuestaCorrecta": 3,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 177,
+    "pregunta": "¿En qué club debutó profesionalmente Raúl González?",
+    "opciones": ["Atlético de Madrid", "Real Madrid", "Schalke 04", "New York Cosmos"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 178,
+    "pregunta": "¿Qué jugador sueco es el máximo goleador de la historia de la Liga de Campeones de la UEFA?",
+    "opciones": ["Zlatan Ibrahimović", "Henrik Larsson", "Gunnar Nordahl", "Fredrik Ljungberg"],
+    "respuestaCorrecta": 0,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 179,
+    "pregunta": "¿Quién es el máximo goleador de la historia de la Copa del Rey?",
+    "opciones": ["Lionel Messi", "Telmo Zarra", "Guillermo Gorostiza", "Cristiano Ronaldo"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 180,
+    "pregunta": "¿Qué jugador belga es el máximo goleador de la historia del Manchester City?",
+    "opciones": ["Romelu Lukaku", "Kevin De Bruyne", "Eden Hazard", "Vincent Kompany"],
+    "respuestaCorrecta": 1,
+    "categoria": "Jugadores",
+    "dificultad": "Dificil"
+  },
+
+  {
+    "id": 181,
+    "pregunta": "¿Cuántos equipos participan en la fase de grupos de la Liga de Campeones de la UEFA?",
+    "opciones": ["16", "32", "64", "48"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 182,
+    "pregunta": "¿Cuál es el club con más títulos de la Copa del Rey?",
+    "opciones": ["Real Madrid", "FC Barcelona", "Athletic Club", "Atlético de Madrid"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 183,
+    "pregunta": "¿Qué país ha ganado más veces la Copa Mundial de la FIFA?",
+    "opciones": ["Argentina", "Alemania", "Brasil", "Italia"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 184,
+    "pregunta": "¿En qué estadio se jugó la final de la Copa Mundial de la FIFA 2014?",
+    "opciones": ["Maracaná", "Wembley", "Santiago Bernabéu", "Allianz Arena"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 185,
+    "pregunta": "¿Qué equipo ganó la primera edición de la Copa Libertadores?",
+    "opciones": ["Santos FC", "Peñarol", "River Plate", "Boca Juniors"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 186,
+    "pregunta": "¿Qué jugador tiene el récord de más goles en una sola edición de la Copa Mundial de la FIFA?",
+    "opciones": ["Gerd Müller", "Just Fontaine", "Ronaldo Nazário", "Miroslav Klose"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 187,
+    "pregunta": "¿Cuál es el nombre de la copa que se entrega al campeón de la Copa del Mundo?",
+    "opciones": ["Copa Jules Rimet", "Copa UEFA", "Copa Mundial", "Copa Centenario"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 188,
+    "pregunta": "¿Qué selección ganó la Copa América 2021?",
+    "opciones": ["Brasil", "Argentina", "Uruguay", "Colombia"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 189,
+    "pregunta": "¿Cuántos trofeos de la Copa de Europa/Champions League tiene el Real Madrid?",
+    "opciones": ["12", "13", "14", "15"],
+    "respuestaCorrecta": 3,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 190,
+    "pregunta": "¿Qué equipo ganó la UEFA Europa League en la temporada 2019-2020?",
+    "opciones": ["Sevilla FC", "Inter de Milán", "Atlético de Madrid", "Manchester United"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 191,
+    "pregunta": "¿Quién fue el capitán de la selección argentina en la Copa Mundial de la FIFA 1986?",
+    "opciones": ["Diego Maradona", "Jorge Burruchaga", "Daniel Passarella", "Oscar Ruggeri"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 192,
+    "pregunta": "¿Qué país fue el anfitrión de la Copa Mundial de la FIFA 2018?",
+    "opciones": ["Brasil", "Rusia", "Francia", "Alemania"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 193,
+    "pregunta": "¿Cuál es el máximo goleador histórico de la Copa del Mundo?",
+    "opciones": ["Pelé", "Miroslav Klose", "Ronaldo Nazário", "Lionel Messi"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 194,
+    "pregunta": "¿Qué club inglés ha ganado la FA Cup más veces?",
+    "opciones": ["Manchester United", "Liverpool", "Arsenal", "Chelsea"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 195,
+    "pregunta": "¿Qué país ganó la Eurocopa 2016?",
+    "opciones": ["Francia", "Portugal", "Alemania", "España"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 196,
+    "pregunta": "¿En qué año se jugó la primera Copa Mundial de la FIFA?",
+    "opciones": ["1928", "1930", "1934", "1950"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 197,
+    "pregunta": "¿Qué selección ganó la Copa Mundial de la FIFA 2010?",
+    "opciones": ["Alemania", "Brasil", "España", "Holanda"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 198,
+    "pregunta": "¿Qué jugador es el máximo goleador de la historia de la Copa América?",
+    "opciones": ["Norberto Méndez", "Zizinho", "Pelé", "Lionel Messi"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 199,
+    "pregunta": "¿Qué club ha ganado más veces la Liga de Campeones de la CONCACAF?",
+    "opciones": ["Club América", "Cruz Azul", "Pachuca", "Monterrey"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 200,
+    "pregunta": "¿En qué país se celebró la Copa Mundial de la FIFA 2022?",
+    "opciones": ["Catar", "Arabia Saudita", "Emiratos Árabes Unidos", "Japón"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 201,
+    "pregunta": "¿Qué club ganó la Copa Libertadores 2021?",
+    "opciones": ["Palmeiras", "Flamengo", "River Plate", "Boca Juniors"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 202,
+    "pregunta": "¿Qué equipo ganó la Copa Mundial de Clubes de la FIFA 2020?",
+    "opciones": ["Bayern Múnich", "Chelsea", "Liverpool", "Real Madrid"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 203,
+    "pregunta": "¿Qué selección ganó la Copa del Mundo Femenina de la FIFA 2019?",
+    "opciones": ["Estados Unidos", "Holanda", "Suecia", "Inglaterra"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 204,
+    "pregunta": "¿Cuál es el trofeo que se entrega al campeón de la Copa América?",
+    "opciones": ["Copa de Oro", "Copa Centenario", "Copa América", "Trofeo de Campeones"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 205,
+    "pregunta": "¿Qué equipo ganó la Copa de África de Naciones 2021?",
+    "opciones": ["Egipto", "Senegal", "Argelia", "Marruecos"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 206,
+    "pregunta": "¿En qué ciudad se jugó la final de la Liga de Campeones de la UEFA 2021?",
+    "opciones": ["Oporto", "París", "Londres", "Lisboa"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 207,
+    "pregunta": "¿Qué equipo ha ganado más veces la Copa Sudamericana?",
+    "opciones": ["Independiente", "Boca Juniors", "River Plate", "Athletico Paranaense"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 208,
+    "pregunta": "¿Qué selección ganó la Liga de Naciones de la UEFA 2021?",
+    "opciones": ["España", "Francia", "Bélgica", "Italia"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 209,
+    "pregunta": "¿Quién fue el máximo goleador de la Copa América 2019?",
+    "opciones": ["Paolo Guerrero", "Everton Soares", "Gabriel Jesus", "Alexis Sánchez"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  {
+    "id": 210,
+    "pregunta": "¿Qué club inglés ganó la Copa de la Liga en 2021-22?",
+    "opciones": ["Liverpool", "Chelsea", "Manchester City", "Arsenal"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Fácil"
+  },
+  
+  {
+    "id": 211,
+    "pregunta": "¿Cuál es el único club que ha ganado la Copa de Europa/Champions League, la Recopa de Europa y la Copa de la UEFA/Europa League?",
+    "opciones": ["Juventus", "Bayern Múnich", "Ajax", "Real Madrid"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 212,
+    "pregunta": "¿Qué selección ha ganado la Copa Mundial de la FIFA y la Eurocopa en el mismo año?",
+    "opciones": ["Francia", "Alemania", "España", "Brasil"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 213,
+    "pregunta": "¿Qué club ha perdido más finales de la Copa Libertadores?",
+    "opciones": ["River Plate", "América de Cali", "Peñarol", "Boca Juniors"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 214,
+    "pregunta": "¿En qué año se jugó la primera edición de la UEFA Europa League (antes Copa de la UEFA)?",
+    "opciones": ["1955", "1960", "1971", "1992"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 215,
+    "pregunta": "¿Qué jugador ha marcado en más finales de la Liga de Campeones de la UEFA?",
+    "opciones": ["Alfredo Di Stéfano", "Lionel Messi", "Cristiano Ronaldo", "Raúl González"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 216,
+    "pregunta": "¿Cuál fue el resultado de la final de la Copa Mundial de la FIFA 1966 entre Inglaterra y Alemania?",
+    "opciones": ["2-1", "3-2", "4-2", "2-0"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 217,
+    "pregunta": "¿Qué club ganó la Copa Intercontinental en 2004?",
+    "opciones": ["FC Porto", "Manchester United", "Boca Juniors", "AC Milán"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 218,
+    "pregunta": "¿Qué jugador es el máximo goleador de la historia de la Copa Asiática de la AFC?",
+    "opciones": ["Ali Daei", "Lee Dong-Gook", "Younis Mahmoud", "Naohiro Takahara"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 219,
+    "pregunta": "¿Qué selección ganó la Copa Mundial de la FIFA 1930?",
+    "opciones": ["Argentina", "Uruguay", "Italia", "Brasil"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 220,
+    "pregunta": "¿En qué estadio se jugó la final de la UEFA Champions League 2017?",
+    "opciones": ["Millennium Stadium", "San Siro", "Estadio Olímpico de Kiev", "Estadio Nacional de Gales"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 221,
+    "pregunta": "¿Qué país ha ganado más Copas de África de Naciones?",
+    "opciones": ["Camerún", "Ghana", "Egipto", "Nigeria"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 222,
+    "pregunta": "¿Quién fue el máximo goleador de la Copa del Mundo de 1994?",
+    "opciones": ["Romário", "Hristo Stoichkov", "Roberto Baggio", "Gabriel Batistuta"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 223,
+    "pregunta": "¿Qué club ganó la primera edición de la Copa Sudamericana en 2002?",
+    "opciones": ["San Lorenzo", "Atlético Nacional", "Arsenal de Sarandí", "Cienciano"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 224,
+    "pregunta": "¿Qué selección ha ganado más veces la Eurocopa?",
+    "opciones": ["España", "Alemania", "Francia", "Italia"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 225,
+    "pregunta": "¿En qué año se introdujo el formato de Liga de Campeones de la UEFA, reemplazando a la Copa de Europa?",
+    "opciones": ["1988", "1992", "1997", "2000"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 226,
+    "pregunta": "¿Qué equipo ganó la Copa Mundial de Clubes de la FIFA 2010?",
+    "opciones": ["FC Internazionale", "FC Barcelona", "Santos FC", "Real Madrid"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 227,
+    "pregunta": "¿Qué selección fue la primera en ganar la Copa Mundial de la FIFA en su propio país?",
+    "opciones": ["Uruguay", "Italia", "Brasil", "Alemania"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 228,
+    "pregunta": "¿Quién es el máximo goleador histórico de la FA Cup?",
+    "opciones": ["Ian Rush", "Frank Lampard", "Wayne Rooney", "Harry Kane"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 229,
+    "pregunta": "¿Qué club ha ganado más veces la Liga de Campeones de la AFC?",
+    "opciones": ["Al-Hilal", "Pohang Steelers", "Ulsan Hyundai", "Al-Sadd"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 230,
+    "pregunta": "¿Qué selección ganó la Copa Mundial Femenina de la FIFA 2011?",
+    "opciones": ["Estados Unidos", "Japón", "Alemania", "Brasil"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 231,
+    "pregunta": "¿En qué ciudad se jugó la final de la Copa Libertadores 2020?",
+    "opciones": ["Río de Janeiro", "São Paulo", "Montevideo", "Santiago"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 232,
+    "pregunta": "¿Qué club ha ganado más veces la Supercopa de la UEFA?",
+    "opciones": ["Real Madrid", "AC Milán", "FC Barcelona", "Liverpool"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 233,
+    "pregunta": "¿Quién fue el máximo goleador de la Copa del Mundo de 1970?",
+    "opciones": ["Pelé", "Gerd Müller", "Jairzinho", "Teófilo Cubillas"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 234,
+    "pregunta": "¿Qué equipo ganó la Recopa de Europa en la temporada 1998-99, la última edición del torneo?",
+    "opciones": ["Lazio", "Mallorca", "Chelsea", "Fiorentina"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 235,
+    "pregunta": "¿Qué selección ganó la Eurocopa 2004?",
+    "opciones": ["Portugal", "Grecia", "Alemania", "Francia"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 236,
+    "pregunta": "¿En qué ciudad se jugó la final de la Copa América Centenario en 2016?",
+    "opciones": ["Nueva York", "Chicago", "Pasadena", "East Rutherford"],
+    "respuestaCorrecta": 3,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 237,
+    "pregunta": "¿Quién fue el máximo goleador de la UEFA Europa League en la temporada 2017-18?",
+    "opciones": ["Antoine Griezmann", "Ciro Immobile", "Radamel Falcao", "Pierre-Emerick Aubameyang"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 238,
+    "pregunta": "¿Qué club ganó la Copa del Rey en 2021?",
+    "opciones": ["FC Barcelona", "Athletic Club", "Real Sociedad", "Valencia CF"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 239,
+    "pregunta": "¿Qué selección ha ganado más veces la Copa Oro de la CONCACAF?",
+    "opciones": ["Estados Unidos", "México", "Costa Rica", "Canadá"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+  {
+    "id": 240,
+    "pregunta": "¿Quién es el jugador con más partidos en la historia de la Copa del Mundo?",
+    "opciones": ["Lothar Matthäus", "Paolo Maldini", "Lionel Messi", "Miroslav Klose"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Medio"
+  },
+
+  {
+    "id": 241,
+    "pregunta": "¿Cuál es el único club italiano que ha ganado la Recopa de Europa?",
+    "opciones": ["AC Milan", "Juventus", "Lazio", "Fiorentina"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 242,
+    "pregunta": "¿En qué año se jugó la final de la Copa del Rey en la que el Real Madrid le ganó al Barcelona 2-1 con goles de Di Stéfano y Puskás?",
+    "opciones": ["1959", "1962", "1965", "1968"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 243,
+    "pregunta": "¿Qué selección ganó la Copa Mundial de la FIFA de 1958?",
+    "opciones": ["Brasil", "Suecia", "Alemania", "Argentina"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 244,
+    "pregunta": "¿Qué jugador es el máximo goleador en la historia de la Copa de África de Naciones?",
+    "opciones": ["Samuel Eto'o", "Didier Drogba", "Hossam Hassan", "Laurent Pokou"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 245,
+    "pregunta": "¿Qué club ha ganado más veces la Recopa de Europa?",
+    "opciones": ["FC Barcelona", "AC Milan", "Chelsea", "Manchester United"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 246,
+    "pregunta": "¿En qué país se jugó la final de la Copa Mundial de la FIFA 1974?",
+    "opciones": ["Alemania Federal", "Holanda", "Italia", "Inglaterra"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 247,
+    "pregunta": "¿Qué club ganó la Copa Libertadores en 1970?",
+    "opciones": ["Estudiantes de La Plata", "Peñarol", "Nacional", "River Plate"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 248,
+    "pregunta": "¿Qué jugador ha marcado en tres finales de la Copa Mundial de la FIFA?",
+    "opciones": ["Pelé", "Ronaldo Nazário", "Vavá", "Zinedine Zidane"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 249,
+    "pregunta": "¿Qué selección ganó la Eurocopa 1988?",
+    "opciones": ["Unión Soviética", "Alemania Federal", "Holanda", "Italia"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 250,
+    "pregunta": "¿En qué año se jugó la final de la Copa de Europa entre el Celtic y el Inter de Milán?",
+    "opciones": ["1965", "1967", "1969", "1971"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 251,
+    "pregunta": "¿Qué club ganó la Copa Mundial de Clubes de la FIFA 2000?",
+    "opciones": ["Corinthians", "Vasco da Gama", "Real Madrid", "Manchester United"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 252,
+    "pregunta": "¿Qué jugador fue el máximo goleador de la Copa del Mundo de 1954?",
+    "opciones": ["Sándor Kocsis", "Just Fontaine", "Fritz Walter", "Helmut Rahn"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 253,
+    "pregunta": "¿Cuál es el único club de Europa que ha ganado la Copa Intercontinental y la Copa de la UEFA/Europa League en el mismo año?",
+    "opciones": ["Bayern Múnich", "Juventus", "FC Porto", "Real Madrid"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 254,
+    "pregunta": "¿Qué selección ganó la Copa Mundial de la FIFA de 1978?",
+    "opciones": ["Argentina", "Holanda", "Italia", "Brasil"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 255,
+    "pregunta": "¿En qué ciudad se jugó la final de la Copa Libertadores 1999?",
+    "opciones": ["São Paulo", "Cali", "Buenos Aires", "Asunción"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 256,
+    "pregunta": "¿Qué club ha ganado más veces la Copa Intercontinental?",
+    "opciones": ["AC Milán", "Real Madrid", "Nacional", "Boca Juniors"],
+    "respuestaCorrecta": 1,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 257,
+    "pregunta": "¿Qué jugador fue el máximo goleador de la Eurocopa 2000?",
+    "opciones": ["Patrick Kluivert", "Savo Milošević", "Marco van Basten", "Ruud van Nistelrooy"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 258,
+    "pregunta": "¿Qué selección ha ganado la Copa Mundial de la FIFA y la Copa Confederaciones en el mismo año?",
+    "opciones": ["Brasil", "Alemania", "Francia", "España"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 259,
+    "pregunta": "¿En qué año se jugó la final de la Copa de Europa entre el Nottingham Forest y el Hamburgo?",
+    "opciones": ["1977", "1979", "1980", "1982"],
+    "respuestaCorrecta": 2,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 260,
+    "pregunta": "¿Qué equipo ganó la Copa Mundial de Clubes de la FIFA 2011?",
+    "opciones": ["FC Barcelona", "Santos FC", "Chelsea", "Corinthians"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 261,
+    "pregunta": "¿Qué club ha ganado la Liga de Campeones de la UEFA y la Copa Libertadores?",
+    "opciones": ["AC Milán", "River Plate", "Real Madrid", "Chelsea"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 262,
+    "pregunta": "¿Quién fue el máximo goleador de la Copa del Mundo de 1986?",
+    "opciones": ["Gary Lineker", "Diego Maradona", "Emilio Butragueño", "Careca"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 263,
+    "pregunta": "¿Qué selección ganó la Copa Confederaciones 2013?",
+    "opciones": ["Brasil", "España", "Uruguay", "Italia"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 264,
+    "pregunta": "¿En qué ciudad se jugó la final de la Copa de la UEFA 1982?",
+    "opciones": ["Gotemburgo", "Londres", "Lisboa", "Madrid"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 265,
+    "pregunta": "¿Qué club ha ganado más veces la Copa de la Liga de Inglaterra?",
+    "opciones": ["Liverpool", "Manchester United", "Manchester City", "Chelsea"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 266,
+    "pregunta": "¿Qué jugador es el máximo goleador en la historia de la Copa Mundial Sub-20 de la FIFA?",
+    "opciones": ["Javier Saviola", "Sergio Agüero", "Ademola Lookman", "Erling Haaland"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 267,
+    "pregunta": "¿Qué selección ganó la Copa Mundial de la FIFA de 1990?",
+    "opciones": ["Alemania Federal", "Argentina", "Italia", "Brasil"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 268,
+    "pregunta": "¿En qué estadio se jugó la final de la Copa de Europa de 1960?",
+    "opciones": ["Hampden Park", "Santiago Bernabéu", "San Siro", "Wembley"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 269,
+    "pregunta": "¿Qué club ha ganado más veces la Copa Interamericana?",
+    "opciones": ["Independiente", "América", "Nacional", "Peñarol"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
+  },
+  {
+    "id": 270,
+    "pregunta": "¿Quién fue el máximo goleador de la Copa del Mundo de 1934?",
+    "opciones": ["Oldřich Nejedlý", "Edmund Conen", "Angelo Schiavio", "Leônidas"],
+    "respuestaCorrecta": 0,
+    "categoria": "Copas",
+    "dificultad": "Dificil"
   }
 ]
