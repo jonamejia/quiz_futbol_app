@@ -517,8 +517,10 @@ class _ResultPageState extends State<ResultPage> {
       confettiColors = [Colors.amber, Colors.yellow, Colors.orange]; // Colores dorados para puntaje perfecto
     } else if (widget.score >= widget.total * 0.75) {
       confettiColors = [Colors.blue, Colors.green, Colors.pink]; // Colores variados para buen puntaje
-    } else {
+    } else if (widget.score >= widget.total * 0.5) {
       confettiColors = [Colors.red, Colors.orange, Colors.purple]; // Colores variados para puntajes más bajos
+    } else  {
+      confettiColors = [Colors.brown, Colors.yellow, Colors.blue]; // Colores variados para puntajes más bajos
     }
 
     return Scaffold(
