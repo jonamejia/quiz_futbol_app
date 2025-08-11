@@ -11,6 +11,8 @@ dependencies:
   path_provider: ^2.0.15
   audioplayers: ^5.2.1
   flutter_launcher_icons: "^0.14.4"
+  confetti: ^0.8.0
+  flutter_confetti: ^0.5.1
 
 flutter_launcher_icons:
   android: "launcher_icon"
@@ -31,5 +33,9 @@ flutter:
     - assets/sounds/gol.mp3
     - assets/sounds/fallo.mp3
     - assets/questions.json
+    - assets/sounds/win.mp3
+    - assets/sounds/applauses.mp3
+    - assets/sounds/lose.mp3
+    - assets/sounds/violin.mp3
 
   uses-material-design: true
